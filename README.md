@@ -1,5 +1,5 @@
 # Look-At-Me-Bitch
-A small program to get the user's location
+A small program to get the user's IP
 
 Download:
 
