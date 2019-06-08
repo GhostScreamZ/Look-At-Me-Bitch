@@ -19,4 +19,4 @@ You can download Ngrok and throw the server into the network(Internet) with comm
 
 ./ngrok http 3000
 
-This program generate web-server on localhost:3000 with supposedly web page and determines OS, IP, Browser and other parameters of victim request
+This program generate web-server on localhost:3000 with supposedly not found web page and determines OS, IP, Browser and other parameters of victim request
