@@ -7,7 +7,7 @@ git clone https://github.com/GhostScreamZ/Look-At-Me-Bitch.git
 
 Install:
 
-chmod +x install.sh
+chmod +x install.sh &&
 ./install.sh
 
 Usage:
